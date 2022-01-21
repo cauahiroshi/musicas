@@ -1,2 +1,2 @@
 # musicas
-Nesse repositório foi criadauma classe, objetos e a implementação de exceções
+Nesse repositório foi criada uma classe, objetos e a implementação de exceções
